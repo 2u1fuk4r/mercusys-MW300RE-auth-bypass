@@ -1,7 +1,7 @@
 # Mercusys / TP-Link MR30G Authentication Bypass (PoC)
 
 ## Overview
-This repository contains a proof-of-concept (PoC) demonstrating an authentication bypass vulnerability in the Mercusys / TP-Link MR30G 4G LTE router web management interface.
+This repository contains a proof-of-concept (PoC) demonstrating an authentication bypass vulnerability in the Mercusys / TP-Link MW300RE  router web management interface.
 
 Due to improper access control, several internal backend endpoints can be accessed without authentication, allowing retrieval of device and network-related information.
 
@@ -11,7 +11,7 @@ Due to improper access control, several internal backend endpoints can be access
 
 ## Affected Device
 - Vendor: Mercusys / TP-Link
-- Model: MR30G (4G LTE Router)
+- Model: MW300RE 
 - Interface: Web Management Interface
 
 ---
