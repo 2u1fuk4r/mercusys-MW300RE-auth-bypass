@@ -31,4 +31,4 @@ The following script demonstrates unauthenticated access to affected endpoints.
 
 ### Usage
 ```bash
-bash mrg30-poc.sh
+bash MW300RE-poc.sh
