@@ -2,7 +2,7 @@
 cat << "EOF"
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║        TP-Link / MERCUSYS MR30G Authentication Bypass PoC            ║
+║        TP-Link / MERCUSYS MW300RE Authentication Bypass PoC          ║
 ║                                                                      ║
 ║  ┌──────────────────────────────────────────────────────────────┐    ║
 ║  │  Vulnerability : Incorrect Access Control                    │    ║
@@ -13,9 +13,8 @@ cat << "EOF"
 ║                                                                      ║
 ║  Researcher : Zulfukar Karabulut                                     ║
 ║  GitHub     : https://github.com/2u1fuk4r                            ║
-║  LinkedIn   : https://cy.linkedin.com/in/2u1fuk4r                    ║
+║  LinkedIn   : https://linkedin.com/in/2u1fuk4r                       ║
 ║                                                                      ║
-║  Status     : CVE Pending (MITRE Submission)                         ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 EOF
