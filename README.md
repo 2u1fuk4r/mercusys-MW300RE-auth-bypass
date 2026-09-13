@@ -1,4 +1,4 @@
-# Mercusys / TP-Link MR30G Authentication Bypass (PoC)
+# Mercusys / TP-Link MW300RE Authentication Bypass (PoC)
 
 ## Overview
 This repository contains a proof-of-concept (PoC) demonstrating an authentication bypass vulnerability in the Mercusys / TP-Link MW300RE  router web management interface.
