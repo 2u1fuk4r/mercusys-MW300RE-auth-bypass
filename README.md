@@ -5,7 +5,7 @@ This repository contains a proof-of-concept (PoC) demonstrating an authenticatio
 
 Due to improper access control, several internal backend endpoints can be accessed without authentication, allowing retrieval of device and network-related information.
 
-**CVE Status:** CVE-2026-38789
+**CVE Status:** RESERVED (CVE-2026-38789)
 
 ---
 
